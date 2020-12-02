@@ -1,0 +1,10 @@
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\bin\Debug\netcoreapp3.1\appsettings.json
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\bin\Debug\netcoreapp3.1\API_Aplication.exe
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\obj\Debug\netcoreapp3.1\API_Aplication.csprojAssemblyReference.cache
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\obj\Debug\netcoreapp3.1\API_Aplication.AssemblyInfoInputs.cache
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\obj\Debug\netcoreapp3.1\API_Aplication.AssemblyInfo.cs
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\obj\Debug\netcoreapp3.1\API_Aplication.RazorTargetAssemblyInfo.cache
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\obj\Debug\netcoreapp3.1\staticwebassets\API_Aplication.StaticWebAssets.Manifest.cache
+D:\catolica-II-2020\arqui\ModelC4\Airline\API_Aplication\API_Aplication\obj\Debug\netcoreapp3.1\staticwebassets\API_Aplication.StaticWebAssets.xml

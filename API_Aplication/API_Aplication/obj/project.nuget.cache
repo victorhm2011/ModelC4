@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AmUHEfNiKyNdAboLanYEPq4EZEgUTIowYKU+FTmVcPdWoulWohRwOUNqfudKL/61U4Ohlp+rhwmR/snqQM+RWg==",
+  "success": true,
+  "projectFilePath": "D:\\catolica-II-2020\\arqui\\ModelC4\\Airline\\API_Aplication\\API_Aplication\\API_Aplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTOR\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\VICTOR\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\VICTOR\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
